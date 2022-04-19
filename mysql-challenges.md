@@ -1,4 +1,4 @@
-**Question 1**
+**Question 1**\
 You are given a table flats with the following structure:
 ```
 CREATE TABLE `flats` (
